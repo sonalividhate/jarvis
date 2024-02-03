@@ -1,0 +1,8 @@
+SpeechRecognition
+pyaudio
+pyttsx3
+wikipedia
+openai
+pyautogui
+pyscreeze
+webbrowser
